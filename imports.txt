@@ -1,0 +1,5 @@
+pencil 23.5 TEXAS
+pencil 43.5 MANHATTAN
+pen 23.0 TEXAS
+cigarettes 56.23 TEXAS
+pencil 12.4 TEXAS

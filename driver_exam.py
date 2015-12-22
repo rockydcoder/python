@@ -4,6 +4,7 @@ response = []
 incorrect = []
 for line in f:
     response.append(line[0])
+f.close()
 counter = 0
 for i in range(0,19):
     if answers[i] == response[i]:
